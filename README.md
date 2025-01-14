@@ -1,5 +1,11 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on my thesis project: *Developing a Skin Disease Detection System Based on Convolutional Neural Networks (CNN) in a Mobile Platform*.  
+👯 I’m looking to collaborate on projects related to AI, web development, or mobile app development.  
+🤝 I’m looking for help with improving UI/UX designs for my competition project, *EcoCityHub*.  
+🌱 I’m currently learning advanced machine learning techniques and UI/UX design principles.  
+💬 Ask me about web development, AI projects, or tips on balancing coding and creativity!  
+⚡ Fun fact: I chose Informatics Engineering over Communication Studies despite having a background in photography and videography.  
+
 
 
 ## 🌐 Socials:
