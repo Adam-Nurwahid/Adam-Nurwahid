@@ -26,7 +26,7 @@
 <td width="55%" valign="top">
 
 ### 👨‍💻 About Me
-- 🔭 **Current Project:** Thesis on *Skin Disease Detection System (CNN/Mobile)*.
+- 🔭 **Current Project:** Thesis on *Waste Detection System (CNN/Mobile)*.
 - 🌱 **Learning:** Advanced Machine Learning & UI/UX Design.
 - 🤝 **Collaboration:** Open to AI, Web, or Mobile App projects.
 - 🎨 **Help Needed:** Improving UI/UX for *EcoCityHub*.
@@ -37,8 +37,6 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adam-Nurwahid&theme=tokyonight&show_icons=true&hide_border=true" width="100%" alt="GitHub Stats" />
-  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adam-Nurwahid&theme=tokyonight&hide_border=true" width="100%" alt="Streak Stats" />
 </div>
 
