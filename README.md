@@ -56,19 +56,3 @@
 | **Creative** | <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white" /> <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white" /> <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white" /> |
 
 <br/>
-
-<div align="center">
-  <h3>🏆 Trophies & Top Languages</h3>
-  
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Adam-Nurwahid&theme=nord&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
-  </a>
-  
-  <br/><br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adam-Nurwahid&theme=tokyonight&hide_border=true&layout=compact" alt="Top Langs" />
-  
-  <br/><br/>
-  
-  <img src="https://visitcount.itsvg.in/api?id=Adam-Nurwahid&icon=0&color=0" alt="Visitor Count" />
-</div>
