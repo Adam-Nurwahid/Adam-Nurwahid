@@ -37,7 +37,7 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adam-Nurwahid&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="100%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Adam-Nurwahid&theme=tokyonight&show_icons=true&hide_border=true" width="100%" alt="GitHub Stats" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adam-Nurwahid&theme=tokyonight&hide_border=true" width="100%" alt="Streak Stats" />
 </div>
