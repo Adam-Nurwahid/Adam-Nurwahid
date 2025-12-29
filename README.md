@@ -1,5 +1,8 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3F51B5&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B+I'm+Adam;Mobile+%26+AI+Developer;UI%2FUX+Enthusiast;Photography+Lover" alt="Typing SVG" />
+  
+  <br/>
+  <i>"Ingin menjadi programmer handal namun malas ngoding"</i>
 </div>
 
 <div align="center">
@@ -26,7 +29,7 @@
 <td width="55%" valign="top">
 
 ### 👨‍💻 About Me
-- 🔭 **Current Project:** Thesis on *Waste Detection System (CNN/Mobile)*.
+- 🔭 **Current Project:** Thesis on *Skin Disease Detection System (CNN/Mobile)*.
 - 🌱 **Learning:** Advanced Machine Learning & UI/UX Design.
 - 🤝 **Collaboration:** Open to AI, Web, or Mobile App projects.
 - 🎨 **Help Needed:** Improving UI/UX for *EcoCityHub*.
@@ -54,3 +57,4 @@
 | **Creative** | <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white" /> <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white" /> <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white" /> |
 
 <br/>
+
