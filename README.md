@@ -69,31 +69,6 @@
 | **Creative Tools** | <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white" /> <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white" /> <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white" /> |
 | **Tools** | <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white" /> |
 
-<hr/>
-
-### 🚀 Featured Projects
-
-<!--
-  PENTING: ganti REPO_NAME_1 dan REPO_NAME_2 di bawah dengan nama
-  repo ASLI kamu yang sudah PUBLIC di GitHub (misalnya nama repo
-  skripsi CNN kamu & EcoCityHub). Kalau nama repo salah atau
-  repo-nya masih private, pin card ini gagal generate dan muncul
-  sebagai ikon broken image seperti di preview kamu.
--->
-<div align="center">
-  <a href="https://github.com/Adam-Nurwahid/REPO_NAME_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Adam-Nurwahid&repo=REPO_NAME_1&theme=tokyonight&hide_border=true" alt="Pinned repo 1" />
-  </a>
-  <a href="https://github.com/Adam-Nurwahid/REPO_NAME_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Adam-Nurwahid&repo=REPO_NAME_2&theme=tokyonight&hide_border=true" alt="Pinned repo 2" />
-  </a>
-</div>
-
-<div align="center">
-  <sub>⚠️ Ganti <code>REPO_NAME_1</code> dan <code>REPO_NAME_2</code> di atas dengan nama repo asli kamu yang sudah <b>public</b> (misalnya skripsi CNN kamu & EcoCityHub)</sub>
-</div>
-
-<hr/>
 
 <div align="center">
   <i>⭐️ Thanks for visiting my profile! Feel free to connect and collaborate.</i>
