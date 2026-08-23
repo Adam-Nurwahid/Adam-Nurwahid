@@ -68,9 +68,9 @@
 ### 🚀 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/Adam-Nurwahid/REPO_NAME_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Adam-Nurwahid&repo=REPO_NAME_1&theme=tokyonight&hide_border=true" />
-  </a>
+  <a href="https://github.com/Adam-Nurwahid/Capstone-Project-Tempa.git">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Adam-Nurwahid&repo=skin-disease-detection-cnn&theme=tokyonight&hide_border=true" />
+</a>
   <a href="https://github.com/Adam-Nurwahid/REPO_NAME_2">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Adam-Nurwahid&repo=REPO_NAME_2&theme=tokyonight&hide_border=true" />
   </a>
