@@ -39,15 +39,16 @@
 ### 📊 GitHub Stats
 
 <!--
-  Gambar di bawah ini di-generate otomatis oleh GitHub Action
-  (.github/workflows/github-stats.yml) dan disimpan sebagai file
-  statis di repo ini — jadi TIDAK bergantung pada layanan pihak
-  ketiga yang bisa down/rate-limited (github-readme-stats.vercel.app
-  dan github-readme-streak-stats.herokuapp.com sering error 503).
+  Gambar ini di-generate oleh repo terpisah "github-stats" (dari
+  template jstrieb/github-stats) lewat GitHub Action miliknya
+  sendiri, lalu di-commit ke branch "generated" di repo tersebut.
+  Diambil di sini lewat raw.githubusercontent.com — jadi TIDAK
+  bergantung pada layanan publik pihak ketiga yang sering down
+  (github-readme-stats.vercel.app, herokuapp.com, dll).
 -->
 <div align="center">
-  <img src="./generated/overview.svg" alt="GitHub Stats Overview" width="48%" />
-  <img src="./generated/languages.svg" alt="Top Languages" width="48%" />
+  <img src="https://raw.githubusercontent.com/Adam-Nurwahid/github-stats/generated/overview.svg" alt="GitHub Stats Overview" width="48%" />
+  <img src="https://raw.githubusercontent.com/Adam-Nurwahid/github-stats/generated/languages.svg" alt="Top Languages" width="48%" />
 </div>
 
 <hr/>
