@@ -47,8 +47,14 @@
   (github-readme-stats.vercel.app, herokuapp.com, dll).
 -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Adam-Nurwahid/github-stats/generated/overview.svg" alt="GitHub Stats Overview" width="48%" />
-  <img src="https://raw.githubusercontent.com/Adam-Nurwahid/github-stats/generated/languages.svg" alt="Top Languages" width="48%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adam-Nurwahid/github-stats/generated/overview.svg#gh-dark-mode-only" />
+    <img src="https://raw.githubusercontent.com/Adam-Nurwahid/github-stats/generated/overview.svg#gh-light-mode-only" alt="GitHub Stats Overview" width="48%" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adam-Nurwahid/github-stats/generated/languages.svg#gh-dark-mode-only" />
+    <img src="https://raw.githubusercontent.com/Adam-Nurwahid/github-stats/generated/languages.svg#gh-light-mode-only" alt="Top Languages" width="48%" />
+  </picture>
 </div>
 
 <hr/>
@@ -67,17 +73,24 @@
 
 ### 🚀 Featured Projects
 
+<!--
+  PENTING: ganti REPO_NAME_1 dan REPO_NAME_2 di bawah dengan nama
+  repo ASLI kamu yang sudah PUBLIC di GitHub (misalnya nama repo
+  skripsi CNN kamu & EcoCityHub). Kalau nama repo salah atau
+  repo-nya masih private, pin card ini gagal generate dan muncul
+  sebagai ikon broken image seperti di preview kamu.
+-->
 <div align="center">
-  <a href="https://github.com/Adam-Nurwahid/Capstone-Project-Tempa.git">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Adam-Nurwahid&repo=skin-disease-detection-cnn&theme=tokyonight&hide_border=true" />
-</a>
+  <a href="https://github.com/Adam-Nurwahid/REPO_NAME_1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Adam-Nurwahid&repo=REPO_NAME_1&theme=tokyonight&hide_border=true" alt="Pinned repo 1" />
+  </a>
   <a href="https://github.com/Adam-Nurwahid/REPO_NAME_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Adam-Nurwahid&repo=REPO_NAME_2&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Adam-Nurwahid&repo=REPO_NAME_2&theme=tokyonight&hide_border=true" alt="Pinned repo 2" />
   </a>
 </div>
 
 <div align="center">
-  <sub>Ganti <code>REPO_NAME_1</code> dan <code>REPO_NAME_2</code> dengan nama repo asli kamu (misalnya skripsi CNN kamu & EcoCityHub)</sub>
+  <sub>⚠️ Ganti <code>REPO_NAME_1</code> dan <code>REPO_NAME_2</code> di atas dengan nama repo asli kamu yang sudah <b>public</b> (misalnya skripsi CNN kamu & EcoCityHub)</sub>
 </div>
 
 <hr/>
